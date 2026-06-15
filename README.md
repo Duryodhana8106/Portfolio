@@ -1,10 +1,7 @@
 # 🌐 Duryodhana Portfolio
 
 A personal portfolio website showcasing my skills, projects, and journey 
-as an AIML student and aspiring AI Engineer.
-
-## 🔗 Live Demo
-[Click here to view portfolio](https://duryodhana8106.github.io/portfolio/)
+as an AIML student and aspiring AI Engineer and Software Engineer
 
 ## 🛠️ Built With
 - HTML
